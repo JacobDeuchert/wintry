@@ -2,7 +2,9 @@
     "name": "wintry",
     "displayName": "wintry",
     "description": "Minimal Dark Theme with a blueish and purple touch",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "publisher": "jacobdeuchert",
+    "repository": "https://github.com/JacobDeuchert/wintry-theme",
     "engines": {
         "vscode": "^1.66.0"
     },
